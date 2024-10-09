@@ -1,0 +1,117 @@
+Trailer_num, Trailer_type,Arrival_time,Deadline, Supply/Demand/Loadtime, P1, P2, P3, P4, P5
+NA, NA, min,min, Loadtime, 3.0, 3.0, 3.0, 3.0, 3.0
+IT1, Inbound trailer,593.0,NA, Supply, 5, 15, 15, 0, 0
+IT2, Inbound trailer,725.0,NA, Supply, 0, 0, 6, 8, 0
+IT3, Inbound trailer,575.0,NA, Supply, 0, 8, 12, 0, 0
+IT4, Inbound trailer,495.0,NA, Supply, 0, 9, 18, 18, 12
+IT5, Inbound trailer,746.0,NA, Supply, 16, 0, 0, 13, 0
+IT6, Inbound trailer,791.0,NA, Supply, 8, 0, 14, 17, 7
+IT7, Inbound trailer,300.0,NA, Supply, 11, 0, 7, 13, 11
+IT8, Inbound trailer,374.0,NA, Supply, 0, 10, 19, 0, 0
+IT9, Inbound trailer,335.0,NA, Supply, 0, 14, 7, 12, 5
+IT10, Inbound trailer,585.0,NA, Supply, 0, 0, 0, 18, 20
+IT11, Inbound trailer,637.0,NA, Supply, 6, 0, 0, 0, 0
+IT12, Inbound trailer,158.0,NA, Supply, 20, 6, 0, 0, 0
+IT13, Inbound trailer,200.0,NA, Supply, 0, 19, 18, 19, 6
+IT14, Inbound trailer,868.0,NA, Supply, 5, 15, 0, 0, 18
+IT15, Inbound trailer,635.0,NA, Supply, 0, 0, 10, 0, 7
+IT16, Inbound trailer,234.0,NA, Supply, 0, 0, 0, 10, 14
+IT17, Inbound trailer,357.0,NA, Supply, 0, 13, 0, 0, 8
+IT18, Inbound trailer,639.0,NA, Supply, 14, 16, 0, 0, 19
+IT19, Inbound trailer,192.0,NA, Supply, 16, 19, 0, 16, 6
+IT20, Inbound trailer,782.0,NA, Supply, 9, 6, 7, 10, 10
+IT21, Inbound trailer,863.0,NA, Supply, 0, 17, 0, 0, 11
+IT22, Inbound trailer,874.0,NA, Supply, 0, 9, 0, 13, 0
+IT23, Inbound trailer,859.0,NA, Supply, 0, 0, 0, 0, 6
+IT24, Inbound trailer,742.0,NA, Supply, 0, 6, 19, 13, 10
+IT25, Inbound trailer,766.0,NA, Supply, 10, 16, 17, 0, 8
+IT26, Inbound trailer,176.0,NA, Supply, 13, 18, 14, 11, 18
+IT27, Inbound trailer,221.0,NA, Supply, 12, 8, 11, 16, 10
+IT28, Inbound trailer,386.0,NA, Supply, 6, 0, 0, 7, 19
+IT29, Inbound trailer,246.0,NA, Supply, 7, 13, 0, 0, 20
+IT30, Inbound trailer,431.0,NA, Supply, 8, 16, 9, 0, 0
+IT31, Inbound trailer,848.0,NA, Supply, 0, 9, 0, 0, 0
+IT32, Inbound trailer,479.0,NA, Supply, 11, 10, 6, 0, 0
+IT33, Inbound trailer,335.0,NA, Supply, 0, 0, 0, 11, 0
+IT34, Inbound trailer,159.0,NA, Supply, 16, 10, 0, 8, 0
+IT35, Inbound trailer,185.0,NA, Supply, 0, 14, 16, 15, 0
+IT36, Inbound trailer,522.0,NA, Supply, 0, 0, 6, 13, 9
+IT37, Inbound trailer,699.0,NA, Supply, 15, 0, 13, 7, 19
+IT38, Inbound trailer,374.0,NA, Supply, 6, 8, 0, 0, 18
+IT39, Inbound trailer,487.0,NA, Supply, 14, 12, 0, 11, 0
+IT40, Inbound trailer,806.0,NA, Supply, 0, 0, 17, 11, 0
+IT41, Inbound trailer,185.0,NA, Supply, 0, 0, 0, 13, 0
+IT42, Inbound trailer,674.0,NA, Supply, 0, 5, 10, 0, 15
+IT43, Inbound trailer,424.0,NA, Supply, 6, 17, 0, 20, 0
+IT44, Inbound trailer,377.0,NA, Supply, 8, 0, 15, 0, 0
+IT45, Inbound trailer,429.0,NA, Supply, 0, 0, 7, 19, 0
+IT46, Inbound trailer,263.0,NA, Supply, 19, 0, 0, 6, 20
+IT47, Inbound trailer,260.0,NA, Supply, 0, 11, 7, 0, 13
+IT48, Inbound trailer,363.0,NA, Supply, 17, 7, 15, 19, 19
+IT49, Inbound trailer,454.0,NA, Supply, 0, 6, 19, 0, 8
+IT50, Inbound trailer,525.0,NA, Supply, 6, 7, 18, 0, 17
+IT51, Inbound trailer,644.0,NA, Supply, 12, 0, 5, 0, 0
+IT52, Inbound trailer,537.0,NA, Supply, 18, 10, 13, 15, 0
+IT53, Inbound trailer,346.0,NA, Supply, 5, 0, 0, 16, 11
+IT54, Inbound trailer,597.0,NA, Supply, 0, 18, 8, 0, 9
+IT55, Inbound trailer,369.0,NA, Supply, 0, 18, 0, 17, 6
+IT56, Inbound trailer,366.0,NA, Supply, 7, 11, 6, 15, 0
+IT57, Inbound trailer,614.0,NA, Supply, 8, 0, 6, 0, 12
+IT58, Inbound trailer,648.0,NA, Supply, 17, 0, 0, 0, 12
+IT59, Inbound trailer,715.0,NA, Supply, 0, 7, 0, 7, 0
+IT60, Inbound trailer,178.0,NA, Supply, 0, 14, 16, 15, 0
+IT61, Inbound trailer,633.0,NA, Supply, 0, 0, 0, 8, 0
+IT62, Inbound trailer,451.0,NA, Supply, 0, 18, 19, 14, 14
+IT63, Inbound trailer,544.0,NA, Supply, 14, 10, 0, 0, 14
+IT64, Inbound trailer,609.0,NA, Supply, 17, 0, 15, 0, 0
+IT65, Inbound trailer,474.0,NA, Supply, 13, 20, 0, 0, 11
+OT1, Outbound trailer, NA,482.0, Demand, 0, 0, 7, 0, 19
+OT2, Outbound trailer, NA,599.0, Demand, 0, 0, 0, 0, 14
+OT3, Outbound trailer, NA,976.0, Demand, 10, 0, 0, 25, 0
+OT4, Outbound trailer, NA,618.0, Demand, 0, 0, 0, 0, 25
+OT5, Outbound trailer, NA,762.0, Demand, 0, 0, 22, 0, 0
+OT6, Outbound trailer, NA,605.0, Demand, 9, 0, 22, 0, 15
+OT7, Outbound trailer, NA,1333.0, Demand, 0, 0, 11, 0, 0
+OT8, Outbound trailer, NA,1227.0, Demand, 10, 0, 9, 22, 0
+OT9, Outbound trailer, NA,499.0, Demand, 0, 20, 0, 9, 9
+OT10, Outbound trailer, NA,1034.0, Demand, 0, 0, 0, 16, 25
+OT11, Outbound trailer, NA,533.0, Demand, 0, 0, 18, 8, 25
+OT12, Outbound trailer, NA,1175.0, Demand, 7, 0, 10, 11, 0
+OT13, Outbound trailer, NA,1269.0, Demand, 9, 12, 9, 0, 0
+OT14, Outbound trailer, NA,440.0, Demand, 22, 0, 0, 0, 0
+OT15, Outbound trailer, NA,1190.0, Demand, 14, 30, 13, 22, 21
+OT16, Outbound trailer, NA,831.0, Demand, 0, 0, 0, 0, 25
+OT17, Outbound trailer, NA,538.0, Demand, 0, 24, 26, 27, 16
+OT18, Outbound trailer, NA,1008.0, Demand, 15, 0, 20, 30, 0
+OT19, Outbound trailer, NA,655.0, Demand, 0, 30, 0, 0, 0
+OT20, Outbound trailer, NA,899.0, Demand, 9, 0, 0, 0, 0
+OT21, Outbound trailer, NA,494.0, Demand, 0, 36, 16, 29, 8
+OT22, Outbound trailer, NA,925.0, Demand, 0, 0, 0, 0, 15
+OT23, Outbound trailer, NA,666.0, Demand, 0, 22, 16, 9, 0
+OT24, Outbound trailer, NA,510.0, Demand, 7, 0, 24, 27, 0
+OT25, Outbound trailer, NA,1234.0, Demand, 13, 0, 9, 0, 26
+OT26, Outbound trailer, NA,1033.0, Demand, 22, 24, 0, 0, 0
+OT27, Outbound trailer, NA,738.0, Demand, 0, 34, 0, 12, 0
+OT28, Outbound trailer, NA,513.0, Demand, 20, 26, 14, 0, 8
+OT29, Outbound trailer, NA,1183.0, Demand, 16, 0, 0, 25, 0
+OT30, Outbound trailer, NA,1238.0, Demand, 0, 0, 10, 24, 0
+OT31, Outbound trailer, NA,488.0, Demand, 0, 18, 10, 25, 0
+OT32, Outbound trailer, NA,787.0, Demand, 20, 22, 10, 0, 25
+OT33, Outbound trailer, NA,731.0, Demand, 21, 12, 0, 0, 11
+OT34, Outbound trailer, NA,1148.0, Demand, 35, 36, 10, 0, 0
+OT35, Outbound trailer, NA,666.0, Demand, 0, 0, 22, 11, 0
+OT36, Outbound trailer, NA,691.0, Demand, 21, 18, 9, 11, 8
+OT37, Outbound trailer, NA,1013.0, Demand, 21, 0, 0, 0, 14
+OT38, Outbound trailer, NA,1106.0, Demand, 10, 0, 24, 0, 22
+OT39, Outbound trailer, NA,908.0, Demand, 9, 0, 0, 12, 15
+OT40, Outbound trailer, NA,873.0, Demand, 8, 39, 20, 0, 26
+OT41, Outbound trailer, NA,1013.0, Demand, 0, 16, 24, 0, 0
+OT42, Outbound trailer, NA,593.0, Demand, 0, 0, 0, 0, 9
+OT43, Outbound trailer, NA,1251.0, Demand, 0, 0, 16, 19, 9
+OT44, Outbound trailer, NA,1352.0, Demand, 19, 0, 16, 27, 18
+OT45, Outbound trailer, NA,1195.0, Demand, 18, 0, 0, 0, 15
+OT46, Outbound trailer, NA,868.0, Demand, 0, 32, 13, 27, 0
+OT47, Outbound trailer, NA,495.0, Demand, 0, 26, 0, 20, 0
+OT48, Outbound trailer, NA,1128.0, Demand, 16, 0, 10, 12, 31
+OT49, Outbound trailer, NA,1383.0, Demand, 14, 0, 0, 14, 0
+OT50, Outbound trailer, NA,827.0, Demand, 0, 18, 0, 0, 18

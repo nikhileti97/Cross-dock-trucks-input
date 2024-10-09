@@ -1,0 +1,20 @@
+Trailer_num, Trailer_type,Arrival_time,Deadline, Supply/Demand/Loadtime, P1, P2, P3, P4, P5
+NA, NA, min,min, Loadtime, 3.0, 3.0, 3.0, 3.0, 3.0
+IT1, Inbound trailer,593.0,NA, Supply, 0, 0, 9, 0, 0
+IT2, Inbound trailer,725.0,NA, Supply, 18, 0, 0, 0, 6
+IT3, Inbound trailer,575.0,NA, Supply, 10, 0, 0, 10, 0
+IT4, Inbound trailer,495.0,NA, Supply, 7, 7, 9, 11, 12
+IT5, Inbound trailer,746.0,NA, Supply, 13, 9, 0, 14, 9
+IT6, Inbound trailer,791.0,NA, Supply, 0, 14, 15, 0, 0
+IT7, Inbound trailer,300.0,NA, Supply, 0, 6, 0, 0, 0
+IT8, Inbound trailer,374.0,NA, Supply, 11, 13, 14, 11, 6
+IT9, Inbound trailer,335.0,NA, Supply, 0, 14, 0, 8, 0
+IT10, Inbound trailer,585.0,NA, Supply, 0, 0, 8, 0, 19
+OT1, Outbound trailer, NA,1049.0, Demand, 6, 17, 0, 0, 7
+OT2, Outbound trailer, NA,411.0, Demand, 20, 0, 7, 0, 0
+OT3, Outbound trailer, NA,466.0, Demand, 0, 12, 0, 17, 0
+OT4, Outbound trailer, NA,1357.0, Demand, 10, 14, 7, 0, 14
+OT5, Outbound trailer, NA,1047.0, Demand, 0, 0, 8, 0, 19
+OT6, Outbound trailer, NA,512.0, Demand, 12, 0, 8, 0, 0
+OT7, Outbound trailer, NA,676.0, Demand, 0, 0, 25, 14, 0
+OT8, Outbound trailer, NA,1052.0, Demand, 11, 20, 0, 23, 12
